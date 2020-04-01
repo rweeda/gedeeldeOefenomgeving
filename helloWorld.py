@@ -1,4 +1,4 @@
 print("hallo mooie wereld!")
 
 print("een tweede printje")
-print(".")
+print(",") #punt => komma
