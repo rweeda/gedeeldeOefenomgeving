@@ -5,3 +5,4 @@ print(",") #punt => komma
 print("hee wat een topwereld")
 print("Nog een test")
 print("Wijziging")
+print(",") #punt => komma
