@@ -4,3 +4,4 @@ print("een tweede printje")
 print(",") #punt => komma
 print("hee wat een topwereld")
 print("Nog een test")
+print("Wijziging")
